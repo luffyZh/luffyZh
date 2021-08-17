@@ -1,6 +1,6 @@
-### 👏 Welcome to luffyZh Zone
+### 🚀 Welcome to luffyZh Zone
 
-Here are some ideas to get you started:
+Here is some personal information about me:
 
 - 🔭 I'm Chinese and currently working in Hangzhou.
 - 🌱 I'm currently learning && using React.js/Next.js...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luffyZh&theme=buefy)](https://github.com/luffyZh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://juejin.cn/user/96412752681079/posts){:target="_blank"}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://juejin.cn/user/96412752681079/posts)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=next-antd-scaffold&theme=buefy)](https://github.com/luffyZh/next-antd-scaffold)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=dynamic-antd-theme&theme=buefy)](https://github.com/luffyZh/dynamic-antd-theme)
