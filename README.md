@@ -21,5 +21,7 @@ Here is some personal information about me:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=next-antd-scaffold&theme=buefy)](https://github.com/luffyZh/next-antd-scaffold)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=dynamic-antd-theme&theme=buefy)](https://github.com/luffyZh/dynamic-antd-theme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=useful-kit&theme=buefy)](https://github.com/luffyZh/useful-kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=simple-drawio-starter&theme=buefy)](https://github.com/luffyZh/simple-drawio-starter)
 
 
